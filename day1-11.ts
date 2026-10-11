@@ -162,4 +162,4 @@ function findMissingNumber(arr: number[], n: number): number {
     return expectedSum - actualSum;
 }
 
-console.log(findMissingNumber([1, 2, 4, 5], 5)); // 3
+console.log(findMissingNumber([1, 2, 4, 5], 5)); // 10
